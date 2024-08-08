@@ -4,8 +4,29 @@ body {
     align-items: center;
     text-align: center;
     margin: 0px;
+    color: white;
+    background-color: #1f3e19;
 }
 
 header {
     min-width: 100%;
+    background-color: #1f3e19;
+    padding: 1%;
+    border: 1px white;
+}
+
+div#main {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+button#add {
+    min-width: 100%;
+    height: 100%;
+    font-size: 250%;
+    background-color: #3e7b31;
+    padding: 0.5%;
+    margin: 0px;
+    color:  white;
+    border-color: white;
 }
